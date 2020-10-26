@@ -5,7 +5,7 @@ t=$n
 count=0
 while [ $n -ne 0 ]
 do
-let=3
+let=
 check=0
 
     while [ $let -ne 0 ]
